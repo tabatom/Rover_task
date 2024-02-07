@@ -10,7 +10,7 @@ Used packages are:
 Tests are written in the "test" files.
 
 After downloading all files in the same folder, to run the tests:
-- test_rover.py : run the file in a command line
+- test_rover.py : run the file in a command line\\
 
   `python test_rover.py`
 
